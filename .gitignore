@@ -1,0 +1,11 @@
+# Local builds and Go test artifacts
+/bin/
+*.exe
+*.test
+coverage.out
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
